@@ -1,6 +1,6 @@
-#Esame di stato 2020
-#Informatica - Sviluppo di applicazione WEB
-#Salzani Diego 
+# Esame di stato 2020
+# Informatica - Sviluppo di applicazione WEB
+# Salzani Diego 
 
 Nella cartella "verona_post" è presente tutto il codice dell'applicazione web, è possibile 
 rispondere ai vari sondaggi una volta eseguito il login.
