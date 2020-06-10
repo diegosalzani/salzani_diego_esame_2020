@@ -21,7 +21,8 @@ SET time_zone = "+00:00";
 --
 -- Database: `verona_post`
 --
-
+CREATE DATABASE verona_post;
+USE verona_post;
 -- --------------------------------------------------------
 
 --
