@@ -1,6 +1,4 @@
---
 -- Dump dei dati per la tabella `risposte`
---
 
 INSERT INTO `risposte` (`id_utente`, `id_sondaggio`, `risposta1`, `risposta2`, `risposta3`) VALUES
 (1, 1, 'Fryderyk Chopin', 'Luciano Pavarotti', 'Giorgio de Chirico'),
@@ -13,9 +11,7 @@ INSERT INTO `risposte` (`id_utente`, `id_sondaggio`, `risposta1`, `risposta2`, `
 -- --------------------------------------------------------
 
 
---
 -- Dump dei dati per la tabella `sondaggio`
---
 
 INSERT INTO `sondaggio` (`id_sondaggio`, `nome_sondaggio`) VALUES
 (1, 'artisti'),
@@ -25,9 +21,7 @@ INSERT INTO `sondaggio` (`id_sondaggio`, `nome_sondaggio`) VALUES
 -- --------------------------------------------------------
 
 
---
 -- Dump dei dati per la tabella `utenti`
---
 
 INSERT INTO `utenti` (`id`, `username`, `email`, `password`, `data_iscrizione`) VALUES
 (1, 'diegosalzani', 'diegosalzani2001@gmail.com', '1234', '2020-03-26'),
